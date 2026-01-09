@@ -1,0 +1,7 @@
+print("ivan necha zauco ")
+print("fortalezas----- soy empatico con las personas que me rodean, tengo autoconocimiento,")
+print("debilidades------ tengo falta de confianza tengo mucha pena y no soy sociable.")
+print("logros---- Seguir la prepa, ser ing en luces tener un carro ")
+print("musica----- Me gustan todos los tipos de musica pero los que mas es la cumbias sonideras, el regueton y corridos ")
+print("artistas favoritos------ Baja nubes, sucia elegancia, pacifico k, santana 402, bajo perfil,  rara sustancia, under side, c-kan, tornillo, cartel de santa, jauria santa, santa grifa, gera mx,   ")
+print("actividades que hiciste en vacaciones-------- pase tiempo con mi familia y casi me la pase puro trabajar con mi papa. ")
